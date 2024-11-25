@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Secret Garden</title>
+</head>
+
+<style>
+    * {
+        font-family: 'Segoe UI', sans-serif;
+
+    }
+
+    button {
+        margin: 6px 0px;
+        border: 1px solid #E6E6E6;
+        border-radius: 3px;
+        padding: 10px;
+        color: #565656;
+    }
+
+    input {
+        margin: 6px 0px;
+        border: 1px solid #E6E6E6;
+        border-radius: 3px;
+        padding: 10px;
+        color: #565656;
+    }
+
+
+    body {
+        color: #eee;
+        background: #333;
+    }
+
+    .sixfifty {
+        max-width: 650px;
+        margin: auto;
+    }
+
+    #main {
+        max-width: 650px;
+        margin: auto;
+    }
+</style>
+
+<body style="padding: 30px;">
+    <div class="sixfifty" id="m1">
+        <h1>Search “My Secret Garden”</h1>
+        <h3>A collection of women’s Sexual Fantasies - published in 1973</h3>
+        Enter a specific search term <i><b>example</b>: <a href="?dream" style="color:white;">dream</a></i> <br>
+        <input type="text" id="filter" placeholder="search term(s)" onkeyup="checkForEnterKey()">
+        <button onclick="changeToSearch()">search</button>
+        <button onclick="location.assign(`./`)">clear</button><br>
+        <button onclick="r()">load random paragraph</button>
+        <!-- <button onclick="gid('main').innerHTML = fullText">full text</button><br> -->
+
+    </div>
+    <div id="main" style="padding: 30px;"></div>
+
+    <script>
+
+        function changeToSearch() {
+            var f = gid('filter').value.trim().replace(/\s+/ig, "+");
+            location.assign(`./?${f}`);
+        }
+
+        var divtitle = `My Secret Garden: Women’s Sexual Fantasies - 1973 book compiled by Nancy Friday, who collected women's fantasies through letters and tapes and personal interviews.`;
+
+        gid('m1').title = divtitle;
+
+
+
+        function sp(txt) {
+            txt = txt.replace(/\.\.\./ig, '…').replace(/\-\-/ig, '—');
+            txt = txt.replace(/'t/ig, 'APOTROSFEETEE');
+            txt = txt.replace(/\n/ig, 'NNNEWLINE');
+            var sq = txt.match(/"[\s\S]+?"/ig);
+            var sq2 = txt.match(/'[\s\S]+?'/ig);
+            console.log(sq);
+            console.log(sq2);
+            if (sq) {
+                for (let a of sq) {
+                    var b = a.replace(`"`, `“`).replace(`"`, `”`);
+                    txt = txt.replace(a, b);
+                }
+            }
+            if (sq2) {
+                for (let a of sq2) {
+                    var b = a.replace(`'`, `‘`).replace(`'`, `’`);
+                    txt = txt.replace(a, b);
+                }
+            }
+            txt = txt.replace(/APOTROSFEETEE/ig, '’t');
+            txt = txt.replace(/NNNEWLINE/ig, `\n`);
+            return txt;
+        }
+
+        function gid(id) {
+            return (document.getElementById(id));
+        }
+
+        var out = 'hello world';
+        function qbert() {
+            console.log(out);
+            gid("main").innerHTML = out;
+        }
+
+        if (!localStorage.MSGsearch) {
+            localStorage.MSGsearch = '';
+        }
+        gid('filter').value = localStorage.MSGsearch.replace(/\+/ig, ' ');
+
+
+
+        function highlight(pattern, txt) {
+            var re = new RegExp(pattern, 'ig');
+            return txt.replace(re, "<mark>$&</mark>");
+        }
+
+        function checkForEnterKey() {
+            if (event.key === "Enter") {
+                changeToSearch();
+            }
+        }
+
+
+
+
+
+
+        function breakText() {
+            window.a = q;
+            a = a.replace(/\r\n/ig, "\n");
+            var j = a.split("\n\n");
+            console.log(j);
+            var out = '';
+            arr = [];
+            for (let b of j) {
+                if (b.trim().match(/[a-z]/ig)) {
+                    out += `<p>${b}</p>`;
+                    arr.push(b);
+                }
+
+            }
+            // gid("main").innerHTML = out + `<textarea>${JSON.stringify(arr)}</textarea>`;
+        }
+
+        fetch("byfantasy.txt")
+            .then(r => {
+                return r.text()
+            })
+            .then(q => {
+                var out = '';
+                q = q.replace(/\r/ig, '');
+                window.xarr = q.split("**");
+                var i = 0;
+                window.farr = [];
+                for (let a of xarr) {
+                    var tit = a.trim().split("\n")[0];
+                    var f = a.trim().replace(/\n/ig, "<br>");
+                    farr.push(f);
+                    // out += `<br><a onclick="gid('main').innerHTML = farr[${i}]">${tit}</a><br>`;
+                    i++;
+                }
+                if (location.href.match(/\?/ig)) {
+                    var fltr = location.href.replace(/[\s\S]+\?/ig, '').trim();
+                    fltr = fltr.replace(/\+/ig, ' ');
+                    gid('filter').value = decodeURI(fltr);
+                    search2();
+                } else {
+                    r();
+                }
+            });
+
+
+        function search2() {
+            gid("main").innerHTML = 'thinking.......';
+
+            var f = gid('filter').value.trim();
+            f = decodeURI(f);
+            f = f;
+            f = f.replace(/\+/ig, " ");
+            localStorage.MSGsearch = f;
+            //var re = new RegExp(`[\\s\\S]{70}${f}[\\s\\S]{160}`, 'ig');
+            window.re = new RegExp(f, 'ig');
+            shuffle(xarr);
+            var out = '';
+            var i = 0;
+            window.carr = [];
+            for (let a of xarr) {
+                for (let b of a.split("\n")) {
+                    if (b.match(re)) {
+                        carr[i] = a;
+                        b = b.replace(re, "<mark>$&</mark>").trim();
+                        out += `<p>${b} <br><button onclick="populateCarr('${i}');">read this whole story</button></p>`;
+                    }
+                    i++;
+                }
+            }
+            gid("main").innerHTML = out;
+            var url = decodeURI(location.href);
+            var l = `Share this search: <a href=" ${url}" style="color:white;"> ${url}</a><br>`;
+            document.getElementsByTagName('h3')[0].outerHTML += l;
+        }
+
+        function r() {
+            var btn = '';
+            window.chunk = shuffle(farr)[0];
+            parray = chunk.trim().split("<br><br>");
+            console.log(parray);
+            console.log(parray.length);
+            window.chunk2 = parray[0];
+            if (chunk2.length < 120) {
+                window.chunk2 = parray[1];
+            }
+            if (chunk2.length < 120) {
+                console.log(`${parray.length} recursion...`);
+                r();
+            }
+            //console.log(chunk);
+            //console.log(chunk2);
+
+            var out = chunk2;
+            out += `<br><br><button onclick="pop2()"> read this whole story</button >`;
+            out += ` <button onclick="r()">load random</button > `;
+            gid('main').innerHTML = out;
+
+        }
+
+        function pop2() {
+            gid('main').innerHTML = chunk + `<br> <button onclick="r()">load random</button >  `;;
+            document.getElementsByTagName("html")[0].scrollIntoView();
+        }
+
+        function populateCarr(i) {
+            cv = carr[i].trim().replace(/\n/ig, "<br>\n").replace(re, "<mark>$&</mark>");
+            gid('main').innerHTML = cv + `  <br><br><button onclick="r()">load random</button >  `;;;
+            document.getElementsByTagName("html")[0].scrollIntoView();
+        }
+
+        function shuffle(a) {
+            var c = a.length, t, r;
+            while (0 !== c) {
+                r = Math.floor(Math.random() * c);
+                c -= 1;
+                t = a[c];
+                a[c] = a[r];
+                a[r] = t;
+            } return a;
+        }
+
+        //document.addEventListener("DOMContentLoaded", qbert);
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,605 @@
+nfdghfghnfndfg
+1) What is one of the most serious results of loss of the stratospheric ozone layer?
+Increased hurricanes
+Increased tornadoes
+Increased rates of skin cancer~
+Decreased ground-level ozone
+2) Which health effect increases from loss of the stratospheric ozone layer?
+Cases of cataracts and skin cancer~
+Cases of heart attacks
+Increased respiratory issues
+Thyroid disorders
+hjmhjmhmhjmhm
+3) Ozone depletion is caused by ________ in HCFC refrigerants.
+fluorine
+chlorine~
+carbon
+hydrogen
+hjmhjmhjmjhmjj
+4) A reduction in stratospheric ozone causes ________.
+Decreased crop yields and damage to marine organisms~
+Reduced cataracts and skin cancers
+Reduced sunlight and more precipitation
+Global warming
+ Your Answer: B: B
+5) According to the Roland-Molina theory, ________ are destroyed by each chlorine atom in the stratosphere.
+200 ozone molecules
+100,000 ozone molecules~
+10 ozone molecules
+25200 ozone molecules
+ Your Answer: D: D
+6) How do scientists know that the chlorine in the stratosphere is not primarily from volcanoes?
+The amounts of chlorine and fluorine are similar and fluorine does not come from volcanoes.
+The rise in chlorine levels in the stratosphere matches the rise in ozone-depleting emissions.
+Volcanic eruptions only produce a small quantity of chlorine.
+All of the above~
+ Your Answer: B: B
+7) How does the GWP of R-441A compare to the GWPs of R-410A?
+The GWP of R-441A is significantly higher.
+The GWP of R-441A is significantly lower.~
+They are both blends and the GWPs are about equal.
+They are both blends and the GWP of R-410A is just slightly higher.
+ Your Answer: A: D
+8) How does the GWP of R-410A compare to carbon dioxide?
+Almost the same, both are about 1.
+The GWP of R-410A is 10 times lower.
+The GWP of carbon dioxide is 5 times lower.
+The GWP of R-410A is thousands of times greater.~
+ Your Answer: D: D
+9) HFC refrigerants contain ________.
+Helium, fluoride, and chlorine
+Hydrazine, fluoride, and chlorine
+Helium, fluorine, and carbon
+Hydrogen, fluorine, and carbon~
+ Your Answer: B: B
+10) Which refrigerant is considered a low-pressure refrigerant?
+R-407C
+R-123~
+R-134a
+R-404A
+ Your Answer: C: C
+11) ________ refrigerants are the most harmful to stratospheric ozone.
+HC
+HCFCs
+CFCs~
+HFCs
+ Your Answer: A: A
+12) The Montreal Protocol is ________.
+An international treaty that addresses ozone-depleting substances and their alternatives~
+A test procedure or protocol to use when measuring GWP
+A test procedure or protocol to use when measuring ODP
+An international treaty that certified technicians and recovery equipment
+ Your Answer: C: A
+13) The ________ program identifies alternative refrigerants for use.
+SNAP~
+E-Star
+The ASHRAE-approved (AA)
+Energy Star
+ Your Answer: D: D
+14) When servicing an R-22 system you CANNOT ________.
+add R-22 to top off the system after the repair is completed
+retrofit the unit to R-407C
+use recovered or recycled R-22 from the same owner
+top off the unit with R-407C~
+ Your Answer: D: D
+15) All CFC, HCFC, and HFC refrigerant recovery devices must ________.
+be portable
+contain a heavy-duty splash shield
+have a two-stage vacuum pump
+meet EPA standards~
+ Your Answer: B: B
+16) During servicing of any refrigeration system, the refrigerant must be ________.
+reclaimed
+recovered~
+recycled
+all of the above
+ Your Answer: D: D
+17) Which refrigerant can be purchased if you don't have EPA's Section 608 certification?
+Only ozone-depleting substances used in small appliances.
+Only non-ozone-depleting substances used in industrial refrigeration.
+Only reclaimed refrigerants.
+Only refrigerants that are exempt from the venting prohibition.~
+ Your Answer: D: D
+18) When a system is operating, refrigerant enters the compressor of a refrigeration system as a ________.
+superheated liquid
+subcooled liquid
+subcooled vapor
+superheated vapor~
+ Your Answer: B: B
+19) ________ is cleaning the refrigerant for immediate reuse by oil separation and single or multiple passes through devices, like replaceable core filter driers.
+Recovering
+Recycling~
+Reclaiming
+Restoring
+ Your Answer: C: C
+20) After proper R-410A refrigerant recovery, you should use ________ to leak check the system.
+any available HFC and nitrogen
+nitrogen and HCFC-22
+nitrogen, and if a trace gas is desired, add a small amount of R-410A~
+compressed air
+ Your Answer: B: B
+21) Never mix different refrigerants in the same container because ________.
+they could become flammable and/or toxic
+they could be impossible to reclaim~
+they could be using different lubricants
+it is a violation of Department of Transportation (DOT) regulations
+ Your Answer: D: D
+22) Over-evacuation of a system can ________.
+cause service hoses to collapse
+damage a micron gauge
+destroy a vacuum pump
+never occur; you can never pull too much air or other impurities from a system~
+ Your Answer: A: A
+23) Use ________ to determine a safe pressure for leak testing.
+the value on the low-side test pressure data plate~
+the suction-side operating pressure.
+the saturation pressure of the refrigerant charge at 95 °F
+1.314 times the saturation pressure of the refrigerant charge at 95 °F
+ Your Answer: C: C
+24) Approved refrigerant recovery cylinders have ________.
+gray tops and yellow bodies
+gray tops and red bodies if they have flammable refrigerants in them
+Yellow tops and gray bodies~
+Red tops and yellow bodies
+ Your Answer: D: D
+25) In addition to the saturation pressure-temperature behavior of refrigerants, when considering a substitute refrigerant also consider ________.
+cooling capacity
+flammability and toxicity
+materials compatibility
+all of the above~
+Type I Section
+You scored: 18 of 25
+Your Answer: B: A
+1) Type I technicians can service any ________.
+appliances with 5 pounds or less of refrigerant that have been hermetically sealed and charged at the factory~
+appliances with 5 pounds or less of refrigerant including split systems
+open-drive (non-hermetic) system if the charge is less than 5 pounds
+any MVAC or MVAC-like system
+ Your Answer: B: A
+2) Recovery devices for use with small appliances must be capable of ________.
+recovering 90% of the refrigerant when the compressor is operating~
+recovering 90% of the refrigerant when the compressor is NOT operating
+achieving a 10-inch vacuum under the conditions of AHRI 740
+recovering 70% of the refrigerant when the compressor NOT is operating
+ Your Answer: B: C
+3) If you encounter a small appliance that is leaking, ________.
+you must repair the leak within 30 days
+you must document all attempts to repair the leak
+you do not have to repair the leak~
+you must recover all remaining refrigerant and dispose of the appliance
+ Your Answer: D: D
+4) The hydrocarbon refrigerant approved for retrofit into existing household refrigerators is ________.
+R-600a if charge is less than 1 ounce
+R-290 if charge is less than 2 ounces
+any hydrocarbon if the charge is less than 1 ounce
+none. Hydrocarbons are not approved for any retrofit applications~
+ Your Answer: A: A
+5) A process stub is a ________.
+straight piece of tubing that is entered using a piercing access valve~
+line located at least 3 inches below the compressor
+service valve installed at the factory
+stub to allow additional compressors to be connected in parallel
+ Your Answer: A: A
+6) You must have a self-contained recovery machine available unless you only work on ________.
+small appliances~
+chillers
+very high pressure systems
+extremely low pressure units
+ Your Answer: C: C
+7) When recovering refrigerant from small appliances, you must recover ________.
+at least 85% or the refrigerant
+at least 90% of the refrigerant with an inoperative compressor and 80% of the refrigerant with an operative compressor
+at least 80% of the refrigerant with an inoperative compressor and 90% of the refrigerant with an operative compressor~
+all the refrigerant down to a vacuum of 500 microns
+ Your Answer: D: D
+8) ________ can be vented.
+Carbon dioxide
+Ammonia because it is used in absorption and not vapor compression systems
+Nitrogen
+All of the above~
+ Your Answer: A: A
+9) ________is an approved refrigerant for new household refrigerators, freezers, and combination refrigeration/freezers.
+R-600a~
+R-1234yf
+R-1234zd
+R-1234ze(E)
+ Your Answer: C: C
+10) The maximum allowable factory charge for a Type I appliance is ________.
+1 pound
+3 pounds
+5 pounds~
+7 pounds
+ Your Answer: A: A
+11) A small appliance is defined as a system that is ________.
+manufactured, fully charged, and hermetically sealed in a factory with a charge of 5 pounds or less~
+manufactured, fully charged, and hermetically sealed in a factory with a charge of 15 pounds or less
+an appliance with a compressor under one-third horsepower
+any assembly of pre-charged components with a charge of less than 2 pounds per component
+ Your Answer: B: B
+12) Anytime pressurized nitrogen is put into a system, the nitrogen gas ________.
+must be recovered
+may be vented to the ambient air~
+must be returned to the cylinder
+must be purified before it can be vented
+ Your Answer: B: B
+13) You must know the ________ before beginning a refrigerant recovery.
+actual charge in the system
+type of refrigerant that is in the system~
+non-condensable concentration
+oil type
+ Your Answer: C: B
+14) A passive system-dependent recovery process ________.
+uses a pump to recover refrigerant
+uses a non-pressurized container~
+can only be performed on a system with an operating compressor
+can only be performed on a system with an inoperable compressor
+ Your Answer: B: B
+15) What is the pressure of a storage cylinder of R-404A, that is stored in a room where the temperature is 100 °F?
+68 psig
+237 psig~
+319 psig
+488 psig
+ Your Answer: D: B
+16) For small appliances, a standard vacuum pump ________.
+can be configured as an active recovery device
+can only be used as a recovery device in combination with an unpressurized container~
+can only be used as a recovery device in combination with a pressurized container
+can never be used as a recovery device
+ Your Answer: A: D
+17) Any refrigerant that is vented off the top of a charging cylinder ________.
+does not need to be recovered
+must be vented because it is full of non-condensables
+cannot be reclaimed
+must be recovered~
+ Your Answer: D: D
+18) Which condition can cause excessive pressure on the high-side of a self-contained recovery device?
+When the recovery tank valve is closed.
+When the recovery tank is extremely hot.
+When there is a large volume of non-condensable gas in the refrigerant being recovered.
+Any of the above conditions could cause excessive high-side pressure.~
+ Your Answer: D: D
+19) When a tank of mixed refrigerant is sent to a reclaimer, they can ________.
+refuse to accept the refrigerant
+charge extra for processing it
+vent the refrigerant
+either A or B~
+ Your Answer: D: D
+20) Recovered R-410A ________.
+can be recovered into a recovery tank containing R-32 or R-125 because R-410A is a mixture of those two refrigerants
+can only be recovered into a tank containing R-407C
+can only be recovered into a tank containing R-22 and not R-407C
+can only be recovered into an evacuated tank or a tank containing R-410A~
+ Your Answer: B: D
+21) HC refrigerant systems require permanent safety markings ________.
+on or near any evaporators and near any exposed refrigerant tubing
+near the machine compartment
+on the exterior of the refrigerator
+at all of the above locations~
+ Your Answer: C: C
+22) CFC and HCFC refrigerants can decompose to form ________.
+boric acid
+sulfuric acid
+hydrochloric and hydrofluoric acids~
+phosphoric acid
+ Your Answer: C: C
+23) If a large leak of refrigerant occurs, ________.
+put on butyl-lined gloves and try to stop the leak ASAP
+turn off the leak detector, because high concentrations of refrigerant will destroy any leak detector
+immediately vacate and naturally ventilate the area~
+both A and B
+ Your Answer: C: C
+24) A very large refrigerant leak can cause suffocation because refrigerants ________.
+cause asthmatic symptoms making breathing difficult
+are lighter than air making breathing difficult
+are heavier than air and displace oxygen~
+lead to serious lung irritation
+ Your Answer: B: B
+25) At high temperatures, CFC and HCFC refrigerants can decompose into ________.
+hydrazine gas
+phosgene gas~
+hydrogen gas
+chlorine gas
+Type II Section
+You scored: 20 of 25
+Your Answer: B: B
+1) After buttoning up a system, the next step is to ________.
+pull a vacuum to leak check the system
+pressurize with nitrogen and leak check~
+pressurize with refrigerant and leak check
+charge the system to the nameplate charge and start the compressor
+ Your Answer: A: C
+2) ________ indicates low charge in a high-pressure system with a capillary tube.
+Low superheat
+Low subcooling
+Excessive superheat~
+Excessive vibration
+ Your Answer: B: B
+3) For a belt-driven non-hermetic compressor system, the ________ is most likely to leak if the system has not been operated for several months.
+head gasket
+shaft seal~
+king valves
+filter drier
+ Your Answer: D: D
+4) Owners of a cold storage warehouse can't repair their R-22 refrigeration unit (normal system charge is 80 pounds), so they are going to retire the unit. The owner plans to operate the unit until it is retired. How much refrigerant can be added to the leaking system, before it is retired?
+8 pounds
+16 pounds
+24 pounds
+none~
+ Your Answer: A: A
+5) What must an owner of a commercial refrigeration appliance with a charge of 2000 pounds of R-22 do when the leak rate threshold has been exceeded?
+Take further action by repairing, retiring, mothballing, or retrofitting the appliance.~
+Turn the system off.
+Disconnect the electrical power to the system.
+Introduce a UV leak detection dye so the leak will be found in the future and then disconnect power.
+ Your Answer: B: A
+6) Refrigerant should be removed from the condenser outlet when the ________.
+condenser is below the receiver~
+condenser is above the receiver
+condenser is above the evaporator
+compressor is leaking
+ Your Answer: D: D
+7) You have a recovery machine certified for both R-407C and R-410A with R-410A refrigerant in it. You now have to recover refrigerant from a R-407C unit. What must be done before beginning the R-407C recovery?
+Nothing has to be done to the recovery unit, but you must change the recovery cylinder to one that holds R-407C.
+Nothing, it is a dual refrigerant machine and both refrigerants are alternatives to R-22.
+Change the filter on the recovery machine.
+Remove the R-410A from the recovery unit (and hoses), change the filter drier, and change the recovery cylinder to an R-407C cylinder.~
+ Your Answer: D: C
+8) Recovering refrigerant as a vapor minimizes the removal of ________ from the system.
+moisture
+acid
+oil~
+non-condensables
+ Your Answer: A: A
+9) During a TXV repair, refrigerant was recovered from the system. The refrigerant ________.
+can be charged back into the same system after repairs are made and the system is leak checked and properly evacuated~
+can be sold, because it is probably ok
+must be reclaimed because it was a major system repair
+must be destroyed because it was a major system repair
+ Your Answer: D: D
+10) After all the liquid refrigerant has been recovered from a system, the remaining vapor ________.
+must be purged to the atmosphere
+can be vented or recovered
+left in the system if it is being discarded
+must be removed by the recovery system to the required evacuation level~
+ Your Answer: B: B
+11) ________ will speed up recovery.
+Using a smaller recovery tank
+Cooling the recovery tank~
+Heating the recovery tank
+Cooling the system
+ Your Answer: C: C
+12) A system with a large liquid receiver needs a major system repair to replace a faulty TXV. When servicing the unit ________.
+the compressor should be isolated
+the liquid refrigerant should be recovered last
+the refrigerant should be recovered to or isolated in the receiver~
+the refrigerant in the liquid receiver can be vented
+ Your Answer: D: D
+13) Before using a recovery unit, you should ________.
+test the refrigerant for moisture
+test the refrigerant for acid
+heat the recovery unit and recovery cylinder
+check the service valve positions and recovery oil level (if recovery compressor is not oil less) before turning the recovery unit on~
+ Your Answer: C: C
+14) It is against EPA regulations to use system-dependent recovery unit when the ________.
+normal charge of the system is more than 5 pounds
+ambient temperature is over 95 °F
+appliance contains over 15 pounds of refrigerant~
+appliance has a leak
+ Your Answer: B: B
+15) You are changing out the compressor of a system containing 40 pounds of R-404A, you must ________.
+isolate the compressor, vent the refrigerant in the compressor to 0 psig, and remove the compressor
+isolate the compressor, evacuate the isolated section of the system to 0 psig, and if system pressure does not rise after a few minutes, remove the compressor~
+vent the refrigerant from the entire system, because the compressor is bad
+calculate the leak rate to be certain you don't have a substantial leak before removing the compressor
+ Your Answer: B: B
+16) After reaching the required recovery vacuum on a system, ________.
+immediately open the system before there is any more out-gassing
+wait at least a few minutes to see if the system pressure rises~
+break the vacuum with compressed air
+purge the system with R-410A or R-134a to flush refrigerant from the oil
+ Your Answer: C: C
+17) If leaks in a system make the recovery to a required evacuation level unattainable or if reaching this level of evacuation would draw air into the recovered refrigerant, you are only required to recover down to a pressure of ________.
+10 psig
+5 psig
+0 psig~
+5 inches of mercury
+ Your Answer: A: C
+18) You have to open an R-410A system with a normal charge of 250 pounds, to replace a compressor, you must evacuate the system to ________.
+0 psig
+25 mm Hg absolute
+10 inches of Hg vacuum~
+15 inches of Hg vacuum
+ Your Answer: A: A
+19) Which repair is ALWAYS considered "major system repair" under EPA's regulations?
+replacement of a condenser~
+replacement of a capacitor
+replacement of a fan blade
+replacement of an evaporator blower motor
+ Your Answer: D: D
+20) EPA-approved recycling and recovery equipment must ________.
+be tested by an EPA-approved third party and have a label verifying it meets EPA requirements
+be equipped with low-loss fittings
+be certified for use with the refrigerant being recovered or recycled
+All of the above~
+ Your Answer: D: A
+21) If a hermetic compressor is activated while under a deep vacuum, the ________.
+motor windings could be damaged~
+the compressor oil foams
+the run capacitor is overloaded
+the compressor could seize due to lack of lubrication
+ Your Answer: C: C
+22) The ________ is located downstream of the evaporator and before the compressor.
+liquid receiver
+liquid line filter drier
+accumulator~
+condenser
+ Your Answer: B: B
+23) The EPA recommends that ________ should be used to remove ice from a sight glass.
+a non-scratching abrasive pad
+isopropyl alcohol~
+hot water
+torch
+ Your Answer: D: D
+24) An equipment room refrigerant detector is NOT required under ASHRAE Standard 15 to detect ________, but the ventilation system must operate continuously.
+R-1234yf
+R-22
+R-410A
+R-717~
+ Your Answer: A: A
+25) Pressure relief valves should NEVER be installed in ________.
+series~
+parallel
+recovery tanks
+liquid receivers
+Type III Section
+You scored: 19 of 25
+Your Answer: A: A
+1) If a chiller is suspected of having evaporator tube leaks, what should be done before recovering refrigerant?
+Drain the water side of the evaporator.~
+Operate both circulating pumps.
+Activate the purge unit.
+Open all the condenser vents.
+ Your Answer: C: C
+2) ASHRAE Guideline 3 states the chiller should be checked for leaks if during a standard vacuum test the pressure in a system rises from 1 mm Hg to a level above ________.
+500 microns
+2.0 psig
+2.5 mm Hg~
+600 microns
+ Your Answer: A: A
+3) A hydrostatic tube test kit is used to ________.
+find if there is a leak in the tube~
+flush water from tubes
+expand replacement tubes into the chiller core
+clean deposits from the water-side of the chiller
+ Your Answer: C: C
+4) The maximum test pressure for leak testing a low-pressure centrifugal chiller is ________.
+2000 microns
+2500 microns
+10 psig~
+35 psig
+ Your Answer: B: B
+5) After a leaking system that has been repaired has passed the initial verification leak test, when must the follow-up verification test be conducted?
+within 5 days
+within 10 days~
+within 30 days
+No follow-up verification test is required.
+ Your Answer: D: D
+6) The EPA's mandatory leak repair requirements apply to systems with a normal name plate charge of ________ pounds or more.
+5
+15
+30
+50~
+ Your Answer: A: C
+7) For a commercial refrigeration system with a charge of 50 pounds or more of refrigerant, a substantial (or threshold) leak rate will be reduced to ________ after January 1, 2019.
+5%
+10%
+20%~
+30%
+ Your Answer: A: A
+8) If possible, the temperature of the equipment room where the chiller is located ________.
+should be increased to speed recovery~
+should be decreased to condense more liquid
+should be stable before starting recovery
+should be monitored closely during recovery
+ Your Answer: A: C
+9) According to the EPA, when all the R-123 liquid has been removed from an average 350-ton R-123 chiller and the system vapor pressure is 0 psig, the system contains ________.
+trace amounts of refrigerant, which does not need to be recovered
+almost 10 pounds of refrigerant in the system
+100 pounds of refrigerant in the system~
+oil that must be recovered
+ Your Answer: A: C
+10) Water must be circulated through a chiller during refrigerant evacuation to avoid ________.
+acid buildup
+oil overheating
+freezing of the water~
+system isothermalization
+ Your Answer: C: C
+11) When working with low-pressure systems, the high-pressure cut off should be set to no more than ________ to avoid damaging the system or activating the pressure blow off device (rupture disk).
+100 psig
+50 psig
+10 psig~
+500 micron
+ Your Answer: A: A
+12) When possible, the oil in the chiller should be heated because ________.
+less refrigerant will be soluble and/or trapped in the oil at higher temperatures~
+warmer oil prevents any freeze-ups from occurring
+the warmer oil will flush the system better as it is removed
+the warmer oil is chemically more stable during removal
+ Your Answer: B: C
+13) When recharging a chiller, refrigerant is first added as a vapor followed by liquid refrigerant to avoid ________.
+acid buildup
+oil subcooling and subsequent oil waxing
+freezing of the water in the chiller barrels~
+over pressurization of the system
+ Your Answer: C: C
+14) After reaching the required recovery vacuum, ________.
+immediately break the vacuum with nitrogen before the pressure rises
+begin leak checking so the deep vacuum can help identify leaks
+wait a few minutes to see if the system pressure rises before opening the system up for repairs~
+immediately open the system for service
+ Your Answer: D: D
+15) Replacing ________ is ALWAYS considered a "major maintenance, service, or repair?"
+an evaporator
+a condenser
+a compressor
+all of the above~
+ Your Answer: D: D
+16) Replacement of ________ is always considered "major" under EPA's regulations.
+a condenser
+a compressor
+an evaporator
+All of the above~
+ Your Answer: D: D
+17) Low-pressure systems must be evacuated to ________ before being discarded.
+0 psig
+15 inches of water vacuum
+500 microns
+25 mm of Hg absolute~
+ Your Answer: B: B
+18) When disposing a system with a normal charge of more than 5 pounds and less than 50 pounds, the disposal record must be kept by the technician for ________.
+18 months
+3 years~
+30 months
+5 years
+ Your Answer: B: B
+19) How can you pressurize a low-pressure chiller to make a non-major repair?
+Add nitrogen to the system.
+Warm the system.~
+Add compressed air to the system.
+All of the above are EPA-approved methods.
+ Your Answer: C: C
+20) When does the EPA allow you to NOT evacuated to the prescribed level?
+When using a system-dependent recovery unit with a failed compressor.
+When the repair is minor and less than half the charge will be vented.
+When leaks in the appliance make evacuation to the prescribed level unattainable.~
+When the approved recovery unit cannot achieve the EPA required evacuation level.
+ Your Answer: B: B
+21) The saturation pressure corresponding to 32 °F for R-123 is ________.
+26 inches of Hg vacuum
+20 inches of Hg vacuum~
+15 inches of Hg vacuum
+20 psig
+ Your Answer: D: D
+22) The best place to add refrigerant to a centrifugal chiller is at the ________.
+compressor inlet service port
+compressor outlet service port
+condenser charging valve
+evaporator charging valve~
+ Your Answer: C: B
+23) At 23.8 in Hg, R-123 boils at approximately:
+3 °F
+15 °F~
+48 °F
+74 °F
+ Your Answer: D: D
+24) ASHRAE Standard 15 requires the use of room sensors and alarms to detect ________.
+only A2L refrigerants
+only flammable refrigerants
+only toxic refrigerants
+all refrigerant safety groups~
+ Your Answer: A: B
+25) The discharge from a rupture disc should be plumbed ________ for venting?
+upward and away from any electrical devices
+outdoors~
+into the compressor suction
+into the inlet of the purge system

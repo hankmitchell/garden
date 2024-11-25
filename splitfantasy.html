@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hank Mitchell Document</title>
+</head>
+
+<style>
+    * {
+        font-family: 'Segoe UI', sans-serif;
+    }
+</style>
+
+<body>
+    <div id="main"></div>
+
+
+
+
+    <script>
+
+
+
+        var gh = `what-is-narrative-intelligence
+source-centric-vs-monitoring-chatter
+narrative-intelligence-vs-sentiment-analysis
+Importance-of-narrative-intelligence
+customized-solutions
+How-does-it-work
+case-studies
+training-and-support
+pricing`.split("\n");
+        var arr = [];
+        for (let a of gh) {
+            var obj = {};
+            obj.url = `/${a}/`;
+            obj.title = '';
+            for (let y of a.split('-')) {
+                console.log(y);
+                if (y.length > 3) {
+                    y[0] = y[0].toUpperCase;
+                }
+                obj.title += ` ${y} `;
+                obj.title = obj.title.trim().replace(/\s+/ig, ' ');
+            }
+            arr.push(obj);
+        }
+        console.log(arr);
+
+
+
+
+
+
+
+        function gid(id) {
+            return (document.getElementById(id));
+        }
+
+        var out = 'hello world';
+        function qbert() {
+            console.log(out);
+            gid("main").innerHTML = out;
+        }
+
+        fetch("byfantasy.txt")
+            .then(r => {
+                return r.text()
+            })
+            .then(q => {
+                var out = '';
+                q = q.replace(/\r/ig, '');
+                window.xarr = q.split("**");
+                var i = 0;
+                window.farr = [];
+                for (let a of xarr) {
+                    var tit = a.split("\n")[0];
+                    var f = a.replace(/\n/ig, "<br>");
+                    farr.push(f);
+                    out += `<a  onclick="gid('main').innerHTML = farr[${i}]">${tit}</a><br>`;
+                    i++;
+                }
+                gid("main").innerHTML = out;
+                search2('vag');
+            });
+
+
+
+        function search2(txt) {
+            window.re = new RegExp(txt, 'ig');
+            shuffle(xarr);
+            var out = '';
+            var i = 0;
+            window.carr = [];
+            for (let a of xarr) {
+                for (let b of a.split("\n")) {
+                    if (b.match(re)) {
+                        carr[i] = a;
+                        b = b.replace(re, "<mark>$&</mark>").trim();
+                        out += `<p>${b} <button onclick="populateCarr('${i}');">read this whole entry</button></p>`;
+                    }
+                    i++;
+                }
+            }
+            gid("main").innerHTML = out;
+        }
+
+        function populateCarr(i) {
+            cv = carr[i].trim().replace(/\n/ig, "<br>\n").replace(re, "<mark>$&</mark>");
+            gid('main').innerHTML = cv;
+        }
+
+        function shuffle(a) {
+            var c = a.length, t, r;
+            while (0 !== c) {
+                r = Math.floor(Math.random() * c);
+                c -= 1;
+                t = a[c];
+                a[c] = a[r];
+                a[r] = t;
+            } return a;
+        }
+
+
+        //document.addEventListener("DOMContentLoaded", qbert);
+    </script>
+</body>
+
+</html>

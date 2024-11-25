@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script>
+
+        var contract = `a'ight ain't amn't aren't 'bout can't cap'n 'cause cuz 'cept c'mon could've couldn't cuppa daren't daresn't dasn't didn't doesn't don't d'ye d'ya 'em everybody's everyone's everything's 'gainst g'day gimme giv'n gi'z gonna gon't hadn't had've hasn't haven't he'd he'll yesn't he's here's how'd howdy how'll how're how's I'd I'll I'm I've isn't it'd it'll it's let's loven't ma'am mayn't may've mightn't might've mine's mustn't must've 'neath needn't one's o'clock o'er ol' ought've oughtn't 'round shalln't shan't she'd she'll she's should've shouldn't somebody's someone's something's so're so's so've that'll that're that's that'd there'd there'll there're there's these're these've they'd they'll they're they've this's those're those've 'thout 'til 'tis to've 'twas 'tween 'twere w'all w'at wasn't we'd we'll we're we've weren't what'd what'll what're what's what've when'd when's where'd where'll where're where's where've which'd which'll which're which's which've who'd who'll who're who's who've why'd why'dja why're why's willn't won't would've wouldn't ain't y'all y'at yes'm y'ever y'know you'd you'll you're you've`.split(" ");
+        for (let a of contract) {
+            var correct = a.replace(/'/, "’");
+            var re = new RegExp(a, 'ig')
+            txt = txt.replace(a, correct);
+        }
+
+        var h = [];
+        for (let a of t) {
+            h.push(a.trim());
+        }
+
+        var i = 0;
+        for (let a of document.getElementsByClassName('ct-section-inner-wrap')) {
+            a.classList.add(`hankinner${i}`)
+            if (i == 1 || i == 3 || i == 8) {
+                a.style.background = "rgb(20 20 20)";
+                a.style.color = "white";
+            }
+            i++;
+            document.getElementById('text_block-206-27').style.color = "white";
+        }
+
+    </script>
+</body>
+
+</html>
